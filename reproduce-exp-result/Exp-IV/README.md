@@ -1,7 +1,7 @@
-# running
-./Exp-IV.sh
+## running ## 
+* ./Exp-IV.sh
 
-# output
-Exp-IV.csv
+## output ## 
+* Exp-IV.csv
 
-# Datasets and the number of repetitions can be modified in the file "Exp-IV.sh"
+Datasets and the number of repetitions can be modified in the file "Exp-IV.sh"
