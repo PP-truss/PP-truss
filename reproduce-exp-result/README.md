@@ -1,6 +1,6 @@
 # README #
 
-This folder contains all experimental scripts of paper "Truss Maintenance for Highly Correlated Changes".
+This folder contains all experimental scripts of paper "Efficient Star-based Truss Maintenance on Dynamic Graphs".
 Due to the size limit, we only upload two small datasets. To try other datasets, you can download them and put them at this folder, and add the dataset name into each experimental script.
 
 ## Download links for all datasets: ## 
